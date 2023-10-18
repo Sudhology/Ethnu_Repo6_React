@@ -2,7 +2,7 @@ import React from "react";
 
 const App = () => {
   const portfolioData = {
-    name: "Madhusudan Das",
+    name: "Sudhanshu Shukla",
     skills: ["Cloud Practitioner","Java & C++", "Web Development(Mern)", "Database(mySQL & MongoDB)","Flutter"],
     projects: [
       {
@@ -14,7 +14,7 @@ const App = () => {
         description: "Integrating Raspberry Pi with high-definition cameras, live streaming capabilities, and sensor modules empowers users to engage with and explore their environment in real-time.",
       },
       {
-        title: "Madhusudan | Portfolio Website",
+        title: "Sudhanshu | Portfolio Website",
         description: "Explore my portfolio website, a dynamic showcase of my work powered by HTML, CSS, and JavaScript with the flexibility of Flexbox.",
       },
     ],
@@ -29,7 +29,7 @@ const App = () => {
         <div className="body">
           <div className="about">
             <h3><u>Description about me:</u></h3>
-            <p>Hey! I am Madhusudan and I am pursuing my B.Tech Degree from VIT in IT. I love to code and learn new things related to computer and its beauty</p>
+            <p>Hey! I am Sudhanshu and I am pursuing my B.Tech Degree from VIT in IT. I love to code and learn new things related to computer and its beauty</p>
           </div>
           <div className="skills">
             <h3><u>Skills:</u></h3>
